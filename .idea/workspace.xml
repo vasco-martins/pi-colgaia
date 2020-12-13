@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d37b2db5-0e8d-46b6-8801-0050e69e20bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Framework/Kernel/App.php" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/Kernel/App.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/inc/footer.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/inc/footer.view.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +84,7 @@
       <recent name="$PROJECT_DIR$/Framework/Helpers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/js" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Framework/Router" />
     </key>
@@ -108,7 +109,7 @@
       <workItem from="1607511414007" duration="3144000" />
       <workItem from="1607768420640" duration="644000" />
       <workItem from="1607769673170" duration="4339000" />
-      <workItem from="1607812903573" duration="18650000" />
+      <workItem from="1607812903573" duration="18893000" />
     </task>
     <task id="LOCAL-00001" summary="Add Procfile">
       <created>1607887580225</created>
