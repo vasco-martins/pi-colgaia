@@ -1,0 +1,22 @@
+{
+    "name": "vascomartins/colegio",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vasco Martins",
+            "email": "vascomartins37@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation": "^5.2",
+        "ext-pdo": "*",
+        "vlucas/phpdotenv": "^5.2",
+        "robmorgan/phinx": "^0.12.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "app/"
+        }
+    }
+}
