@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 
 
 use App\Models\News;
+use App\Models\Message;
 use App\Models\Page;
 use Symfony\Component\HttpFoundation\Request;
 

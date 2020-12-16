@@ -50,7 +50,7 @@
                     <?php loadItems($items); ?>
 
                     <li><a href="<?= router()->url('news.index') ?>">Notícias</a></li>
-                    <li><a href="<?= router()->url('contacts') ?>">Contact</a></li>
+                    <li><a href="<?= router()->url('contacts') ?>">Contactos</a></li>
                 </ul>
             </nav><!-- #nav-menu-container -->
         </div>

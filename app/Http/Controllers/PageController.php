@@ -4,6 +4,7 @@
 namespace App\Http\Controllers;
 
 
+use App\Models\Message;
 use App\Models\Page;
 
 class PageController

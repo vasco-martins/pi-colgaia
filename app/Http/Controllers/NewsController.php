@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 
 
 use App\Models\News;
-use App\Models\Page;
+use App\Models\Message;
 
 class NewsController
 {
